@@ -3,15 +3,6 @@
 
 # CNN Classification Task with Cat-vs-Dog dataset
 
-## Task Description
-
-In this task, you will build a Convolutional Neural Network (CNN) for image classification. The goal is to classify images into two categories: **dogs** and **cats**. You will:
-
-1. Preprocess and explore the dataset.
-2. Build and train a CNN classification model.
-3. Evaluate the model's performance using appropriate metrics.
-4. Record your findings and observations under the **Findings** section.
-
 ## Dataset
 
 The dataset used for this task is **Dogs vs. Cats**:
